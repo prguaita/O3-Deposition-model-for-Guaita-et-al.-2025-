@@ -31,7 +31,7 @@ In order to cite the code, please reference:
 
 > **Guaita, P., et al.** (2025).  
 > *Global flux-based assessment reveals declining ozone risk for wheat in future climate change scenarios.*  
-> *[Journal Name]*.  
+> *Global Change Biology (under review)*.  
 > [https://doi.org/10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
 
 ---
@@ -48,5 +48,6 @@ Model outputs are available through the **Zenodo** repository:
 For questions or permissions, please contact the corresponding authors:  
 📧 **Pierluigi Renan Guaita** — [guaita.pierluigi@gmail.com](mailto:guaita.pierluigi@gmail.com)  
 📧 **Giacomo Gerosa** — [giacomo.gerosa@unicatt.it](mailto:giacomo.gerosa@unicatt.it)
+
 
 
